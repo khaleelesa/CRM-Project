@@ -1,0 +1,28 @@
+.BadgesContanier {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-left: 20px;
+}
+.badge {
+  display: grid;
+  grid-template-columns: 0.3fr 1fr;
+}
+.userIcon {
+  color: red;
+  font-size: 50px;
+}
+.chartIcon {
+  color: yellowgreen;
+  font-size: 50px;
+}
+.envlopIcon {
+  color: aqua;
+  font-size: 50px;
+}
+.glopIcon {
+  color: orange;
+  font-size: 50px;
+}
+.info {
+  font-size: 30px;
+}

@@ -1,0 +1,16 @@
+.changes {
+  display: flex;
+}
+
+.name_input {
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid gray;
+}
+.update_contanier {
+  margin-left: 20px;
+}
+
+.inner_change {
+  margin: 15px;
+}

@@ -1,0 +1,9 @@
+.addClient_contenier {
+  margin-left: 20px;
+}
+
+.clientInput {
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid gray;
+}
